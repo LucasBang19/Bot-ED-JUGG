@@ -17,7 +17,10 @@ All necessary files to run the bot are available above.
 2. Open VSCode and load the bot folder.
 3. Follow the link below to see how the bot works.
    
-   [**How It Works - Video**](link-to-video)
+   [**How It Works - Video**](https://drive.google.com/file/d/1aqwQMQZmeMtbGB2NV3OQU2RgHl3zSS6q/view?usp=sharing)
+
+### Note
+The delay is intentional, but if you prefer to remove the slight delay to use the skills faster, you have the source code available to make the necessary adjustments.
 
 ## Setup
 
