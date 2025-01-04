@@ -31,4 +31,6 @@ If you need help setting up the bot on your machine, feel free to reach out:
 
 ---
 
+<p style="color:red;">If you like the idea and share my post on Twitter, I can send you one that blows up bombs in the next war.</p>
+
 **Good luck and play wisely!**
